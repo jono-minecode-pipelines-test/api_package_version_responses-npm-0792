@@ -1,0 +1,55 @@
+{
+    "name": "@websitescity/my-vue-library",
+    "version": "0.1.1",
+    "main": "./dist/src/components/Banner.vue.common.js",
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "build-bundle": "vue-cli-service build --target lib --name src/components/Banner.vue "
+    },
+    "dependencies": {
+        "vue": "^2.5.17"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "^3.0.1",
+        "@vue/cli-service": "^3.0.1",
+        "node-sass": "^4.9.0",
+        "sass-loader": "^7.0.1",
+        "vue-template-compiler": "^2.5.17"
+    },
+    "gitHead": "321f6781f82ea7c5afb8d8039f13fd31adc7cdbf",
+    "description": "## Project setup ``` npm install ```",
+    "_id": "@websitescity/my-vue-library@0.1.1",
+    "_npmVersion": "6.4.1",
+    "_nodeVersion": "10.11.0",
+    "_npmUser": {
+        "name": "websitescity",
+        "email": "websitescity@gmail.com"
+    },
+    "dist": {
+        "integrity": "sha512-sxyj3UDUE3zpOVmFpEnWRS32gzRVO7+w70rj9V6q6M/1lluraUOYTNtYpDTufQYchZATBmvtS44zqfaNJaO9pg==",
+        "shasum": "8546cce06fec388dfffa2358dbb5f47d3c1fd324",
+        "tarball": "https://registry.npmjs.org/@websitescity/my-vue-library/-/my-vue-library-0.1.1.tgz",
+        "fileCount": 16,
+        "unpackedSize": 531651,
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJby2SpCRA9TVsSAnZWagAA0xAQAKCpOTF+pSUx8x6RkeU0\nvqlRG2dTyGuKwraAtdBpJjoGLqmMEiI4bSwjWEy2uzF65ZO1j5OI7WbLALuI\namw7GkFGYZwzGPLnkvbwalTpbh+JUit3mNQRxkhXYbt7SxByQ34QXDJrO7wq\nNqhYyKQibNhfVyCCdqSkFHaOJjIaxT4p3a8UOfjkX8o4PYX9kLigQIkgfwe3\nb8Yu4TAz8EMY1+umkXSx5HVtHlRLF6Jvzw63ew+qCJSb2DOIrBgVwPku9fiH\nuJbLe4cAmwQNSlfbO3ghTmqFrPLZ/tcYUHtxzZqHKLzEHOQM7+w9nIKAWoS1\nlcOCDQjM4pKyHA3xGuE2ANq3Uu/kA/koGHLNpZX+umcjXFZV4ca0Fa0VeQ+V\nu5SwDn1uk/KCtESQXzUlXq1Iiv5yzBzTy20u1ZNJ0oTqKB326EfJusVeQH3Q\nEwmh3K8KSW8FCMLunWwhOuJMr0AzXQcJ278CSwlb/Zoeio9vejVFxdw4OWlA\nbsHQgeQOENLKyoAgzKAQ1t+fqkeq/EavHyvxyPecUKw23GV3p1u9X9y4TpXK\nztCxk9JmNSBMfC0MmOjuNb9kGD5LazFlkdJZuM7LyILgXZZReaRzmijJrAft\nzFN6ebK9iVTvY4zZxRoY6q157RjhszM1FrVLR4hH2DSZC0qoWfXkyxj4GWww\nRThS\r\n=lwOe\r\n-----END PGP SIGNATURE-----\r\n",
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQCz+PnGWcpfPMTwpYr570CwtDVqe/XnEdydFKFmUdDJnQIhAImONdMMY1F0K5VsdmSSSn7vnN3T93WKE4bZa967jBCQ"
+            }
+        ]
+    },
+    "maintainers": [
+        {
+            "name": "websitescity",
+            "email": "websitescity@gmail.com"
+        }
+    ],
+    "directories": {},
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/my-vue-library_0.1.1_1540056232614_0.25742259745469687"
+    },
+    "_hasShrinkwrap": false
+}
